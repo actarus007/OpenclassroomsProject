@@ -5,3 +5,15 @@ h1 {
 h2 {
     color: green;
 }
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+span {
+    float: left;
+    margin: 0 200px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: lightcoral;
+}
