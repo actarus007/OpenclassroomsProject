@@ -6,6 +6,13 @@ h2 {
     color: green;
 }
 
+h3 {
+    font-family: fantasy;
+    font-style: oblique;
+    color: chocolate;
+    font-weight: bold;
+}
+
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
